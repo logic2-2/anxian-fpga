@@ -1,0 +1,10 @@
+/output/
+__pycache__/
+*.py[cod]
+*.vcd
+*.fst
+*.lic
+.env
+.env.*
+Thumbs.db
+Desktop.ini

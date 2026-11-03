@@ -1,0 +1,29 @@
+{
+  "baseline_version": "V53",
+  "candidate_version": "V57",
+  "baseline": {
+    "LUT": 18351,
+    "FF": 11680,
+    "BRAM9K": 63,
+    "BRAM32K": 14,
+    "DSP": 26,
+    "PLL": 3
+  },
+  "candidate": {
+    "LUT": 18501,
+    "FF": 11716,
+    "BRAM9K": 63,
+    "BRAM32K": 14,
+    "DSP": 26,
+    "PLL": 3
+  },
+  "delta": {
+    "LUT": 150,
+    "FF": 36,
+    "BRAM9K": 0,
+    "BRAM32K": 0,
+    "DSP": 0,
+    "PLL": 0
+  },
+  "power_measured": false
+}

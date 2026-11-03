@@ -1,0 +1,18 @@
+{
+  "version": "V57",
+  "created_at": "2026-11-03T22:40:59.933828+08:00",
+  "evidence": "E:\\FPGA\\anxian_contest\\evidence\\flash_v57_20261103_224059",
+  "build": "E:\\FPGA\\anxian_contest\\builds\\flash_v57_20261103_224059",
+  "bit": "E:\\FPGA\\anxian_contest\\builds\\flash_v57_20261103_224059\\native_hd_v57_eq_range.bit",
+  "bit_sha256": "FDC16B876B07ED18F6017BB9A607C440CEA837E7415D72363478C739F9A0AA0D",
+  "source_manifest": "E:\\FPGA\\anxian_contest\\builds\\native_hd_v57_eq_range_clean_r7_sram\\manifest.json",
+  "previous_flash_version": "V46",
+  "flash_id_expected": "EF4015",
+  "flash_mbits": 16,
+  "backup_bytes": 2097152,
+  "tf_modified": false,
+  "user_authorization": "Direct user: 下载到flash. Applies only to current clean V57 r7 FDC16B876B07ED18F6017BB9A607C440CEA837E7415D72363478C739F9A0AA0D, with user-confirmed startup and stronger bass effect. Distortion, reverb and +24dB boost are not included.",
+  "hardware_video640_verified": false,
+  "hardware_startup_verified": true,
+  "hardware_bass_cut_subjectively_verified": true
+}

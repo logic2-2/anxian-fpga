@@ -1,0 +1,9 @@
+{
+  "all_passed": true,
+  "only_osd_change": "EQ numeric gain label formatter",
+  "no_photo_branch_added": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\project_v53\\rtl\\exhibit_native_osd_v38.v": "95768756D09347DD05E44EDB976093E551FA120B80FA098374B7ED95AF80E094",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_native_osd_v38.v": "FB21FC55B8941622E2668726CBBD4B27A9F567ADAEFFD610C5E7DB5D08742F68"
+  }
+}

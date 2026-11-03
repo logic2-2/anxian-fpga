@@ -1,0 +1,26 @@
+{
+  "all_passed": true,
+  "crc_release_gate_preserved": true,
+  "one_byte_per_clock_verified": true,
+  "powered_card_resets_passed": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\transport\\tb_fast_sd.sv": "A48FA19C6B4E4A06626C37703515FEBC6284468C1D1357A15F4EB1770B4A707E",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\sd_native4_card.v": "200C03C8B6B9F9C9C735BFC71E8CD4D2A649C2FC6949D098944FACFC5500E391",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\sd_native4_cmd.v": "3F561F028967DDA3A530FB3E8A48CADD63582FC685D383F25AEE4534A5A4F3AF",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\sd_native4_model.sv": "8AC9A7049668AC1189A3FDC788CE0A0E6FB7994B08AC3AB55F2AE82D9197D35C",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\sd_native4_bram_model.v": "D8344E4DBC30FC813821D21A3B50B8AA30EACE4EF25FBE83F8DF62179E21E924",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\tb_native4_soft_reset.sv": "F5ADE3B6C86723450AD8E28B44B24A31B7E6906114D93FBFF8FAF1BE8A2C05F5"
+  },
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\transport_validation.json",
+  "unchanged_source_semantics_verified": true,
+  "original_source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\transport\\tb_fast_sd.sv": "A48FA19C6B4E4A06626C37703515FEBC6284468C1D1357A15F4EB1770B4A707E",
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\sd_native4_card.v": "200C03C8B6B9F9C9C735BFC71E8CD4D2A649C2FC6949D098944FACFC5500E391",
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\sd_native4_cmd.v": "A01449F5791C2A5CD6A94D03EAA315980EA8F032564E553471FA803F147652EF",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\sd_native4_model.sv": "8AC9A7049668AC1189A3FDC788CE0A0E6FB7994B08AC3AB55F2AE82D9197D35C",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\sd_native4_bram_model.v": "D8344E4DBC30FC813821D21A3B50B8AA30EACE4EF25FBE83F8DF62179E21E924",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\tb_native4_soft_reset.sv": "F5ADE3B6C86723450AD8E28B44B24A31B7E6906114D93FBFF8FAF1BE8A2C05F5"
+  },
+  "original_fifo_modules_unchanged": false,
+  "unchanged_tested_logic_verified": true
+}

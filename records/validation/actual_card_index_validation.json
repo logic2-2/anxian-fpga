@@ -1,0 +1,14 @@
+{
+  "all_passed": true,
+  "index_sha256": "149a70b9e16cacb0d86e0d662d85733437d57eae2c2d5eddb48f5ef0d8875b5c",
+  "card_raw_verified": true,
+  "inherited_card_raw_readback": "E:\\FPGA\\anxian_contest\\evidence\\v44\\actual_card_index_validation.json",
+  "card_not_written": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v48\\io\\tb_actual_index47.sv": "279037888F33F05E795CF32E7C1E35AC1F4527A60C2F4D5438B761A28ECE0736",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_tf_audio_v37.v": "1EFD1B19109AF2E7B754F1A80794D66673B57FDF872E5B601DF3FA9696CF5954",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\rotation_bram_model.v": "9F65FE86B2E837B48201604F21922F20C00CED13BAFE2B75D49E3BED1C40BA7F"
+  },
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\actual_card_index_validation.json",
+  "unchanged_tested_logic_verified": true
+}

@@ -1,0 +1,208 @@
+{
+  "created_at": "2026-11-01T13:00:17.476966+08:00",
+  "source": "E:\\FPGA\\anxian_contest\\video_stream_v37\\source\\anlogic_exhibition_original.mp4",
+  "source_sha256": "EFA08B4E918B24ED3879913F96B2878213DB17C7145B7C1151CE4E6CCFFAEA7E",
+  "source_fps": 25,
+  "video": {
+    "file": "E:\\FPGA\\anxian_contest\\video_stream_v42\\MOV42.RGB",
+    "width": 640,
+    "height": 360,
+    "fps": 15,
+    "frames": 2315,
+    "seconds": 154.33333333333334,
+    "frame_bytes": 460800,
+    "sectors_per_frame": 900,
+    "pixel_format": "rgb565le",
+    "sha256": "C5EC655C334D04B56C5DD67BE394DCC719D9E3E1F5C82F9F5A85AE60B613247D",
+    "bytes": 1066752000
+  },
+  "audio": {
+    "file": "E:\\FPGA\\anxian_contest\\video_stream_v42\\MOV42.WAV",
+    "rate": 48000,
+    "channels": 2,
+    "bits": 16,
+    "samples_per_frame": 3200,
+    "samples": 7408000,
+    "gain_db": -2.05,
+    "sha256": "CE36398E1E6F90FAB8C8A0646C296C2C07D87B6916960AC20C8B52B6C6119DC0",
+    "bytes": 29632044
+  },
+  "captions": {
+    "ass": "E:\\FPGA\\anxian_contest\\video_stream_v42\\captions_unchanged.ass",
+    "sha256": "58752DDDA0ED293890154323D87085D32ED127023775628EE55D3FB6CF11AAF5",
+    "unchanged": true
+  },
+  "original_media_unchanged": true,
+  "tail_alignment_seconds": 0.03333333333333144,
+  "preview": "E:\\FPGA\\anxian_contest\\video_stream_v42\\preview_15fps.mp4",
+  "preview_full_decode_passed": true,
+  "tf_written": true,
+  "hardware_verified": false,
+  "tf_write_result": {
+    "started_at": "2026-11-01T13:15:09.279397+08:00",
+    "identity": {
+      "Boot": false,
+      "PartitionStyle": "MBR",
+      "BusType": "USB",
+      "PartitionBytes": 8063516672,
+      "DiskBytes": 8063549440,
+      "DiskNumber": 1,
+      "System": false,
+      "PartitionOffset": 32768,
+      "Serial": "121220160204",
+      "FileSystem": "FAT32"
+    },
+    "evidence": "E:\\FPGA\\anxian_contest\\evidence\\tf_movie640_v42_20261101_131509",
+    "old_index_sha256": "1397cf94445727b137379894b76b91e9f57a9caa1de31d6409ba1cd16d5c53b8",
+    "new_files": [
+      "MOV42.RGB"
+    ],
+    "audio_reused": "MOV41.WAV",
+    "firmware_changed": false,
+    "flash_changed": false,
+    "completed_at": "2026-11-01T13:19:40.056101+08:00",
+    "files": [
+      {
+        "file": "H01.BMP",
+        "bytes": 2764854,
+        "sha256": "75cd8c8b63b0d58d385036ad75e581ca7f574fd84b06063b1deba719176187db",
+        "absolute_lba": 30832,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "H02.BMP",
+        "bytes": 1440054,
+        "sha256": "ab70a256baabc679ac320bc634c19a739950025679a95f9fab8f6f6bdd04c3a8",
+        "absolute_lba": 36240,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "H03.BMP",
+        "bytes": 2073654,
+        "sha256": "2ad5826924ccc9addb8693b2ede38381448cbcd3adc937d51213a250b8ee2177",
+        "absolute_lba": 39056,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "H04.BMP",
+        "bytes": 2764854,
+        "sha256": "6365cc03a91d701fc2532ed647d0671b03d45ce37e87de0d9e3d9ac26172c8eb",
+        "absolute_lba": 43112,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "BGM.WAV",
+        "bytes": 32269136,
+        "sha256": "c7454345a6cb3163df79a03816c72f84e902d43434175483c657494b0bcc3263",
+        "absolute_lba": 48520,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "N01.WAV",
+        "bytes": 7211720,
+        "sha256": "069fc37b57ca9d45dfb6c491ff12c4e6f1668b854f213ab41fd40ea803f1aa5f",
+        "absolute_lba": 111552,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "N02.WAV",
+        "bytes": 7474784,
+        "sha256": "389b69f68e5df3d6e99ef4b297faec3c2c9ca0707129feb3839fa174ad2781f4",
+        "absolute_lba": 125640,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "N03.WAV",
+        "bytes": 6908132,
+        "sha256": "94577eeef17df959319774c4679b8bdd4724744ff3daccd9071a6a2f1a2a4227",
+        "absolute_lba": 140240,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "N04.WAV",
+        "bytes": 7665020,
+        "sha256": "4ce8d34a2699e705fdc9d12b57e8043b23ef7693631cf2302ae544463f6f8079",
+        "absolute_lba": 153736,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "OPN35.WAV",
+        "bytes": 768044,
+        "sha256": "8ca5d638dc6a92946d0f750fc7240641e2cbd7068aa99b42c81e544cab65dfc8",
+        "absolute_lba": 168712,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "MOV37.RGB",
+        "bytes": 177753600,
+        "sha256": "fa6f30a29b2f47779524b85fbd7b2bd047e539e6f88c5d53ed576c2bae239584",
+        "absolute_lba": 170216,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "MOV37.WAV",
+        "bytes": 29625644,
+        "sha256": "24099b399ea06f825a3815d7e2aa163bfd0319ac7a0c7f60c1e10082baf5a618",
+        "absolute_lba": 555088,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "AUDIO.IDX",
+        "bytes": 512,
+        "sha256": "e342e4e7e5a61e5b0e7c532a2062817dbcacf7ffb333c606230392554913c217",
+        "absolute_lba": 612952,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "B01.WAV",
+        "bytes": 27610636,
+        "sha256": "81a21b3c61bf717a26f62d5f26d4f30dc2aa6bf3a494fd4a2565fede32dfc692",
+        "absolute_lba": 612960,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "MOV41.RGB",
+        "bytes": 266688000,
+        "sha256": "12382296d752b07bc41d06fc855f79a418388d5c5535005cbacbdac98d5eada3",
+        "absolute_lba": 666888,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "MOV41.WAV",
+        "bytes": 29632044,
+        "sha256": "ce36398e1e6f90fab8c8a0646c296c2c07d87b6916960ac20c8b52b6c6119dc0",
+        "absolute_lba": 1187768,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      },
+      {
+        "file": "MOV42.RGB",
+        "bytes": 1066752000,
+        "sha256": "c5ec655c334d04b56c5dd67be394dcc719d9e3e1f5c82f9f5a85ae60b613247d",
+        "absolute_lba": 1245648,
+        "contiguous": true,
+        "raw_fat_readback_verified": true
+      }
+    ],
+    "index_sha256": "e342e4e7e5a61e5b0e7c532a2062817dbcacf7ffb333c606230392554913c217",
+    "all_raw_sector_checks_passed": true,
+    "v41_descriptor_and_media_preserved": true,
+    "all_other_assets_unchanged": true,
+    "hardware_verified": false
+  }
+}

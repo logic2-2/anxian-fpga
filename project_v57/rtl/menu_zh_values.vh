@@ -1,0 +1,11 @@
+localparam [63:0] ZH_FADE=64'ha2e285c5a2e288c8;
+localparam [63:0] ZH_WIPE=64'ha1e192d29bdbbafa;
+localparam [63:0] ZH_VWIPE=64'h80c081c19bdbbafa;
+localparam [63:0] ZH_CENTER=64'h82c296d69edea6e6;
+localparam [63:0] ZH_TILES=64'h89c98dcd9edea6e6;
+localparam [63:0] ZH_ALTERNATE=64'h83c3b6f69edea6e6;
+localparam [31:0] ZH_ON=32'h95d58aca;
+localparam [31:0] ZH_OFF=32'h86c6b8f8;
+localparam [63:0] ZH_AUDIO_OFF=64'h86c6b8f820202020;
+localparam [63:0] ZH_AUDIO_DETAIL=64'haded97d720202020;
+localparam [63:0] ZH_AUDIO_ALWAYS=64'h9edea6e620202020;

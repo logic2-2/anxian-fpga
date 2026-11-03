@@ -1,0 +1,3 @@
+# Preserve release-package bytes and hashes across platforms.
+* -text
+*.bit binary

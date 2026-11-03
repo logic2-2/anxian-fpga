@@ -1,0 +1,19 @@
+{
+  "all_passed": true,
+  "independent_dft_vectors": 4,
+  "visible_block_bit_exact": true,
+  "hidden_test_cycles": 80000,
+  "hidden_ram_rom_write_events": 0,
+  "abort_and_restart_verified": true,
+  "power_measured": false,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v46\\fft\\tb_fft46.sv": "D22A729AB9E2CC1037D9AE55DD19F2B034199B2199317006C6E715ED720C95FB",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_fft256.v": "1E3CB4D587399F15D36458DD5BF45C87DE374B70891876F2A40D0CA701FEE8FC",
+    "E:\\FPGA\\anxian_contest\\evidence\\v46\\fft\\tb_fft_sleep.sv": "75B87441FC429584A9FD5E83C8D9E1A69D537383223DBCB0EA355576BAA8C3A5",
+    "E:\\FPGA\\anxian_contest\\evidence\\v46\\fft\\gold_fft.v": "CF13C076930C24CFB56212373C0AB4D9664E042F97C2E405E6C42329D583521A"
+  },
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\fft_validation.json",
+  "unchanged_source_semantics_verified": true,
+  "original_fifo_modules_unchanged": false,
+  "unchanged_tested_logic_verified": true
+}

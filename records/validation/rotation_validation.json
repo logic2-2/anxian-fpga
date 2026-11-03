@@ -1,0 +1,25 @@
+{
+  "all_passed": true,
+  "visible_rotation_bit_exact_to_v43": true,
+  "phase_and_sdram_transactions_unchanged": true,
+  "hidden_bus_capture_and_palette_hold": true,
+  "intro_reference_frames": [
+    0,
+    20,
+    39
+  ],
+  "intro_scatter_handshake_and_pixel_reference_passed": true,
+  "power_measured": false,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\exhibit_rotation_v34.v": "1295F6D1FE9E7E4BA438AFB8F34878BEF9FA53F13758F910FC47457C6A7772AD",
+    "E:\\FPGA\\anxian_contest\\evidence\\v46\\rotation\\tb_rotation46.sv": "F380AC3FD71BA1A396917240397A5E1D646678EBF5144F866D33CB9F2B9BAF9C",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_rotation_v34.v": "8511DB727F88017828125E81FF03EA43CAAB01DB658535E75D00F73D010837F9",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\rotation_bram_model.v": "9F65FE86B2E837B48201604F21922F20C00CED13BAFE2B75D49E3BED1C40BA7F",
+    "E:\\FPGA\\anxian_contest\\evidence\\v46\\rotation\\gold_rotation.v": "1C973B315830F83D40607FF789E08B486F5EE2A0A824372FC71D53147CD09908",
+    "E:\\FPGA\\anxian_contest\\evidence\\v46\\rotation\\tb_intro46.sv": "15A84BEACF41571A21B3E3C3ED20223EFE1350B01A4FE004240B34BA574DF365"
+  },
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\rotation_validation.json",
+  "unchanged_source_semantics_verified": true,
+  "original_fifo_modules_unchanged": false,
+  "unchanged_tested_logic_verified": true
+}

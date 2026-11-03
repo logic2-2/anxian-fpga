@@ -1,0 +1,12 @@
+{
+  "all_passed": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v51\\serial\\tb_serial51.sv": "D11D96491E20AE280D8B5C7F57C8C90B433EB972B7F5CAC9D65C43A6508EA0B7",
+    "E:\\FPGA\\anxian_contest\\evidence\\v51\\serial\\gold_serial.v": "547C8D459F4B3CA65B400926D31B21E7A7442A709C21A4B3E105BD9BED4A34B1",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\hdmi_serial_control_v37.v": "003FDBF601D44ED4E44DFC9DE83EC47C124F547E0D56BD0C2C6DE6B8AC1CFD52",
+    "E:\\FPGA\\anxian_contest\\project_v57\\source\\user_source\\hdl_source\\media_reset_sync.v": "46F9E1A85ADE9C0F7733A1896EEF8499B896D1F9D1A81E9559AB72D8D92486F6"
+  },
+  "equivalence": "All externally visible serial control edges identical; unlocked next_bank=old.bank1 invariant",
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\serial_control_validation.json",
+  "unchanged_tested_logic_verified": true
+}

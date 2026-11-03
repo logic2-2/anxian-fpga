@@ -1,0 +1,10 @@
+{
+  "require_final_setup_and_hold_nonnegative": true,
+  "require_final_routing_drc_clean": true,
+  "allow_timing_failing_sram_experiments": false,
+  "flash_changes_authorized": true,
+  "fallback_flash_version": "V46",
+  "fallback_bit_sha256": "CB00F70CDCD9976D7B2FDDEDC3B1B97A7E55DDDB6E3779577841007AEB271C7C",
+  "authorized_flash_bit_sha256": "FDC16B876B07ED18F6017BB9A607C440CEA837E7415D72363478C739F9A0AA0D",
+  "flash_authorization": "Direct user: 下载到flash. Applies only to current clean V57 r7 FDC16B876B07ED18F6017BB9A607C440CEA837E7415D72363478C739F9A0AA0D, with user-confirmed startup and stronger bass effect. Distortion, reverb and +24dB boost are not included."
+}

@@ -1,0 +1,18 @@
+{
+  "all_passed": true,
+  "voice_capacity": 4096,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\fifo\\tb_pcm4k.sv": "D1A201193180CFB785EBAB6EE9B3D047B9B501EC26D2C2138232903E95109862",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_pcm_fifo.v": "85196430529E301A9D266B367598C40B6DD1B5C6CCF876591D231A2EE60EEA3C",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\rotation_bram_model.v": "9F65FE86B2E837B48201604F21922F20C00CED13BAFE2B75D49E3BED1C40BA7F"
+  },
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\fifo_validation.json",
+  "unchanged_source_semantics_verified": true,
+  "original_source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\fifo\\tb_pcm4k.sv": "D1A201193180CFB785EBAB6EE9B3D047B9B501EC26D2C2138232903E95109862",
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\exhibit_pcm_fifo.v": "95314F243C96B32AF3713ECEDD112669335460A0837E8CCFE75CD0E3969D1D9F",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\rotation_bram_model.v": "9F65FE86B2E837B48201604F21922F20C00CED13BAFE2B75D49E3BED1C40BA7F"
+  },
+  "original_fifo_modules_unchanged": true,
+  "unchanged_tested_logic_verified": true
+}

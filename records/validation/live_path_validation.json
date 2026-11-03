@@ -1,0 +1,24 @@
+{
+  "all_passed": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v57\\live\\tone.hex": "D8D736E1D3C7A398E08551AAE0DB357DE555E06C278BBBC4E3EA1F0B3B1CACEE",
+    "E:\\FPGA\\anxian_contest\\project_v57\\source\\user_source\\hdl_source\\top_tf_hdmi_audio.v": "44BD85581278447CB1E861F7ADD93A974C22CC5B0CD40257919EA20E9921285D",
+    "E:\\FPGA\\anxian_contest\\evidence\\v57\\live\\tb_live_eq56.sv": "5BEA0D27FBC00505BA96573674273A832E9AD762C538F2DB82986637A0C01A50",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_settings_menu_v37.v": "9FE68050D8E15C6BC22A5E7B50C9CBF7D35B8EFF6C709D2ABD8471A869C5DFAF",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_select_key.v": "9B09A0C6DF5EA6CCC9D72E21467236BDAFE949F0D1025BE44A8F7D5F5A5595BD",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_movie_transport_v39.v": "9369333BC96474E96E82CC651F572B8F6C3CDA15B341830A9624708BE2029D60",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_av_gain.v": "13534A81AFA4472B3B44812731501AAC23E1A91EE4E97B3996A4FCBA54625ADB",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_percent_gain.v": "6CBC66D462EB730F3A42ECDCFE2FA4BC3E93E4A4D5BEF50B1C5B76BC1D800550"
+  },
+  "measurements": [
+    {
+      "nominal_bass_db": 0,
+      "measured_simulated_gain_db": 0.0
+    },
+    {
+      "nominal_bass_db": -24,
+      "measured_simulated_gain_db": -22.497976089509226
+    }
+  ],
+  "hardware_measurement": false
+}

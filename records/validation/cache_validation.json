@@ -1,0 +1,22 @@
+{
+  "all_passed": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v53\\cache\\tb_split_cache50.sv": "1498C2699FDE8AA8CCB1CEC5B31BC1CECF22A3964819C1C3BE2F776050E314FA",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_frame_cache_v37.v": "0CC9F407486C21F6B80DD7F64144850D014259CF426123E8840EE7A16086B84E",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\frame_read_write_v37.v": "3CCF5DA8F0727F80906ED437C1C8134E7BC4203BB30E668F764DFDC96D3011AE",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\frame_fifo_write_v37.v": "883BD4089A39CA6A9975A8323FC6A10C48E9006D450FB2ADBEB091055C15A988",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\frame_fifo_read_v37.v": "F08CCDADC1DEED380F41569E83428E4C616839D7CE1B917227274FA90F578C2B",
+    "E:\\FPGA\\anxian_contest\\project_v57\\source\\user_source\\hdl_source\\SD\\frame_fifo_write.v": "D8003FF3ED8600786DE895D60FE09C2EF8F795C9BA2ACE4F620BE247023A9CD2",
+    "E:\\FPGA\\anxian_contest\\project_v57\\source\\user_source\\hdl_source\\IP\\afifo_16_32_256.v": "2101CBB1C823C9E890BC1A9E7CBFB7EA692C2A8E9A70ECA43E4D11C864A8C152",
+    "E:\\FPGA\\anxian_contest\\project_v57\\source\\user_source\\hdl_source\\IP\\afifo_32_16_256.v": "3F0119E1B1BCECD5AF05CDFDB3A56DC336EFCBC2EEA9F9DD3AF8B98A205DED75"
+  },
+  "split_read_words": 115200,
+  "full_read_words": 230400,
+  "video_width": 640,
+  "video_height": 360,
+  "output_width": 1280,
+  "output_height": 720,
+  "hardware_verified": false,
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\cache_validation.json",
+  "unchanged_tested_logic_verified": true
+}

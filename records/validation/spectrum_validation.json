@@ -1,0 +1,14 @@
+{
+  "all_passed": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v50\\display\\tb_spectrum50.sv": "21CFC13D711E4B99C8DF1821FCBDE9A78AD8C9E4C3F6B0106E2AD926998D8422",
+    "E:\\FPGA\\anxian_contest\\evidence\\v50\\display\\gold_spectrum48.v": "9F16774F778AFFF071854135AE4E209A496FB661A9813B02082B64F6DC824BBA",
+    "E:\\FPGA\\anxian_contest\\evidence\\v50\\display\\portable_gold_spectrum48.v": "F3A445297B349815447DE90235359F23FCA45C88682D7BD55D3F8CA38AB23176",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_spectrum_osd.v": "0792E07654801D873A3467E94019299B7B8C55A8AD5A42FC61034F1FCF54A45A",
+    "E:\\FPGA\\anxian_contest\\evidence\\v50\\display\\portable_exhibit_spectrum_osd.v": "DB9F264B583681827C54BC0AA12603122BB3739ED7EABB0F1A7419AD2B063C2D",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\rotation_bram_model.v": "9F65FE86B2E837B48201604F21922F20C00CED13BAFE2B75D49E3BED1C40BA7F"
+  },
+  "split_bar_count": 16,
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\spectrum_validation.json",
+  "unchanged_tested_logic_verified": true
+}

@@ -1,0 +1,17 @@
+{
+  "all_passed": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_select_key.v": "9B09A0C6DF5EA6CCC9D72E21467236BDAFE949F0D1025BE44A8F7D5F5A5595BD",
+    "E:\\FPGA\\anxian_contest\\evidence\\v48\\seek\\tb_seek47.sv": "D254D22D18B415AFF7EDEA105C4589674219C42C5C08547E101F11B6B2B4960B",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_movie_transport_v39.v": "9369333BC96474E96E82CC651F572B8F6C3CDA15B341830A9624708BE2029D60",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_tf_audio_v37.v": "1EFD1B19109AF2E7B754F1A80794D66673B57FDF872E5B601DF3FA9696CF5954",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_movie_stream_v37.v": "EBD2A1E4135EE5070FDCABA1E10D3546BDBF645F07ED33B911AAD146460CBA47",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_sd_arbiter_v37.v": "D0EF102A22727FCE05ADA17393C7511A5BADCFA6A347BB3A52B5D605125815D7",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_pcm_fifo.v": "85196430529E301A9D266B367598C40B6DD1B5C6CCF876591D231A2EE60EEA3C",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\rotation_bram_model.v": "9F65FE86B2E837B48201604F21922F20C00CED13BAFE2B75D49E3BED1C40BA7F"
+  },
+  "hardware_verified": false,
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\seek_validation.json",
+  "unchanged_tested_logic_verified": true,
+  "inherited_cases": "Data-path seek/speed transaction only; new UI exercised by display_validation"
+}

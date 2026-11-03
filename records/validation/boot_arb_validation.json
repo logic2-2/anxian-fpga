@@ -1,0 +1,36 @@
+{
+  "all_passed": true,
+  "legacy_sector_arbitration_passed": true,
+  "batch_reservation_and_release_passed": true,
+  "native_fat_bmp_cases": 8,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\boot_arb\\tb_arb_legacy43.sv": "A756B9604D9F113C4348CEAD4AA4EA3E6FFD1F9273C95B914C8179862222ED40",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_sd_arbiter_v37.v": "D0EF102A22727FCE05ADA17393C7511A5BADCFA6A347BB3A52B5D605125815D7",
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\boot_arb\\tb_arb_batch43.sv": "D49E963200F005A99313A41966307DCBDFAC51DF809C4EEE6FB74C2C18DCBD71",
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\boot_arb\\tb_boot43.sv": "6DEFBA0FDDDC3893CB551391B5124012BAAF23ADB0A0FEFC7FFD6EC1179A9060",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\sd_native4_card.v": "200C03C8B6B9F9C9C735BFC71E8CD4D2A649C2FC6949D098944FACFC5500E391",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\sd_native4_cmd.v": "3F561F028967DDA3A530FB3E8A48CADD63582FC685D383F25AEE4534A5A4F3AF",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\fat32_volume_v37.v": "4099F977FDC2F44290C37280DB7BC137D3AF5C07F5E29B046F47BDEC602628F2",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\fat32_bmp_media_v37.v": "E1827508429FE846C0AB7A856F41A72954BF6C52D2D5B20C6BAAB6CC98D3EB20",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_bmp_fit.v": "B225CB5387F8B0C5DA34B9DD772D011689CFF26EF56FAAEB68687BDB02005343",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\sd_native4_model.sv": "8AC9A7049668AC1189A3FDC788CE0A0E6FB7994B08AC3AB55F2AE82D9197D35C",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\sd_native4_bram_model.v": "D8344E4DBC30FC813821D21A3B50B8AA30EACE4EF25FBE83F8DF62179E21E924"
+  },
+  "inherited_from": "E:\\FPGA\\anxian_contest\\evidence\\v56\\boot_arb_validation.json",
+  "unchanged_source_semantics_verified": true,
+  "original_source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\boot_arb\\tb_arb_legacy43.sv": "A756B9604D9F113C4348CEAD4AA4EA3E6FFD1F9273C95B914C8179862222ED40",
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\exhibit_sd_arbiter_v37.v": "D0EF102A22727FCE05ADA17393C7511A5BADCFA6A347BB3A52B5D605125815D7",
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\boot_arb\\tb_arb_batch43.sv": "D49E963200F005A99313A41966307DCBDFAC51DF809C4EEE6FB74C2C18DCBD71",
+    "E:\\FPGA\\anxian_contest\\evidence\\v43\\boot_arb\\tb_boot43.sv": "6DEFBA0FDDDC3893CB551391B5124012BAAF23ADB0A0FEFC7FFD6EC1179A9060",
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\sd_native4_card.v": "200C03C8B6B9F9C9C735BFC71E8CD4D2A649C2FC6949D098944FACFC5500E391",
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\sd_native4_cmd.v": "A01449F5791C2A5CD6A94D03EAA315980EA8F032564E553471FA803F147652EF",
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\fat32_volume_v37.v": "4099F977FDC2F44290C37280DB7BC137D3AF5C07F5E29B046F47BDEC602628F2",
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\fat32_bmp_media_v37.v": "E1827508429FE846C0AB7A856F41A72954BF6C52D2D5B20C6BAAB6CC98D3EB20",
+    "E:\\FPGA\\anxian_contest\\project_v43\\rtl\\exhibit_bmp_fit.v": "3216C314A4A28044A91E8FA87A1DB0C170C65CF9177B7AFC7BDE8E9A40B9BED5",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\sd_native4_model.sv": "8AC9A7049668AC1189A3FDC788CE0A0E6FB7994B08AC3AB55F2AE82D9197D35C",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\sd_native4_bram_model.v": "D8344E4DBC30FC813821D21A3B50B8AA30EACE4EF25FBE83F8DF62179E21E924"
+  },
+  "original_fifo_modules_unchanged": false,
+  "unchanged_tested_logic_verified": true
+}

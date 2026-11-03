@@ -1,0 +1,30 @@
+{
+  "folders": [
+    {
+      "name": "V57 r7 源码",
+      "path": "project_v57"
+    },
+    {
+      "name": "构建与校验工具",
+      "path": "tools"
+    },
+    {
+      "name": "说明",
+      "path": "docs"
+    },
+    {
+      "name": "冻结与验收记录",
+      "path": "records"
+    },
+    {
+      "name": "已烧录固件",
+      "path": "firmware"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/*.pyc": true
+    }
+  }
+}

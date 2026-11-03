@@ -1,0 +1,9 @@
+{
+  "completed_at": "2026-11-03T22:41:33.121276+08:00",
+  "exit_code": 0,
+  "flash_id": "EF4015",
+  "backup": "E:\\FPGA\\anxian_contest\\evidence\\flash_v57_20261103_224059\\flash_before_v57.bin",
+  "sha256": "DEE9C6C30706C64EBDF108F566689BAAC4C5F4D043C8374C1D42A8A8EEE52F07",
+  "bytes": 2097152,
+  "flash_modified": false
+}

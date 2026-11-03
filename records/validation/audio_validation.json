@@ -1,0 +1,16 @@
+{
+  "all_passed": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v57\\retained\\tb_audio_legacy_v37_v43.sv": "A6DD63518BB99F9575296953871C1546EF55AAD4B4434E90483EC28CF42CB7EF",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_tf_audio_v37.v": "1EFD1B19109AF2E7B754F1A80794D66673B57FDF872E5B601DF3FA9696CF5954",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_live_mix_v35.v": "40A0BF8B844CD60CD348C8A5E1A4DED94F281CA4B42C41470FF5201CA2522B16",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_pcm_fifo.v": "85196430529E301A9D266B367598C40B6DD1B5C6CCF876591D231A2EE60EEA3C",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_movie_transport_v39.v": "9369333BC96474E96E82CC651F572B8F6C3CDA15B341830A9624708BE2029D60",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_av_gain.v": "13534A81AFA4472B3B44812731501AAC23E1A91EE4E97B3996A4FCBA54625ADB",
+    "E:\\FPGA\\anxian_contest\\project_v57\\source\\user_source\\hdl_source\\media_reset_sync.v": "46F9E1A85ADE9C0F7733A1896EEF8499B896D1F9D1A81E9559AB72D8D92486F6",
+    "E:\\FPGA\\anxian_contest\\project\\sim\\rotation_bram_model.v": "9F65FE86B2E837B48201604F21922F20C00CED13BAFE2B75D49E3BED1C40BA7F",
+    "E:\\FPGA\\anxian_contest\\evidence\\v57\\retained\\tb_opening_audio_v37_v43.sv": "EC673D039CCB05205B7F4A9FC45B0E799CF78A5D787C409D814C1F357FB55712",
+    "E:\\FPGA\\anxian_contest\\evidence\\v57\\retained\\tb_movie_audio_v39_v43.sv": "EC58797BA72F0ACF09632D8AE713CAD5C53EDD39447B3E37B2A088730405C117",
+    "E:\\FPGA\\anxian_contest\\evidence\\v57\\retained\\tb_bgm_switch_v43.sv": "48171DAF5B5ACD1D112E0643657015CFC79E231038591366BE5EFA972B0980C1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source_version": "V57 r7",
+  "build_script": "E:\\FPGA\\tmp\\V57 r7 交付验证\\build\\build.tcl",
+  "frozen_source_hashes_verified": 141,
+  "build_input_count": 101,
+  "path_only_modified_copies": [
+    "rtl/exhibit_caption.v",
+    "rtl/exhibit_fft256.v",
+    "rtl/exhibit_native_osd.v",
+    "rtl/exhibit_native_osd_v37.v",
+    "rtl/exhibit_native_osd_v38.v",
+    "rtl/exhibit_osd.v",
+    "rtl/exhibit_resolution_menu_osd.v",
+    "rtl/exhibit_spectrum_osd.v",
+    "source/user_source/hdl_source/include/sdr_as_ram.enc.v",
+    "source/user_source/hdl_source/include/sdr_init_ref.enc.v",
+    "source/user_source/hdl_source/SD/color_bar.v",
+    "source/user_source/hdl_source/SD/sdram.v"
+  ],
+  "missing_dependencies": [],
+  "board_accessed": false,
+  "delivery_scripts_syntax_valid": true,
+  "external_or_missing_runtime_dependencies": [],
+  "original_sources_modified": false,
+  "full_synthesis_or_simulation_repeated": false
+}

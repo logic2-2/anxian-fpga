@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-11-03T22:41:55.463093+08:00",
+  "version": "V57",
+  "bit": "E:\\FPGA\\anxian_contest\\builds\\flash_v57_20261103_224059\\native_hd_v57_eq_range.bit",
+  "bit_sha256": "FDC16B876B07ED18F6017BB9A607C440CEA837E7415D72363478C739F9A0AA0D",
+  "flash_id": "EF4015",
+  "backup": "E:\\FPGA\\anxian_contest\\evidence\\flash_v57_20261103_224059\\flash_before_v57.bin",
+  "backup_sha256": "DEE9C6C30706C64EBDF108F566689BAAC4C5F4D043C8374C1D42A8A8EEE52F07",
+  "completed_at": "2026-11-03T22:46:29.510448+08:00",
+  "exit_code": 0,
+  "command_completed": true,
+  "flash_write_attempted": true,
+  "flash_written": true,
+  "flash_readback_verified": true,
+  "cold_boot_verified": true,
+  "hardware_video640_verified": false,
+  "hardware_startup_verified": true,
+  "hardware_bass_cut_subjectively_verified": true,
+  "tf_modified": false,
+  "log": "E:\\FPGA\\anxian_contest\\evidence\\flash_v57_20261103_224059\\program_verify.log"
+}

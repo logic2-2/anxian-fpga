@@ -1,0 +1,17 @@
+{
+  "all_passed": true,
+  "changed_functional_sources": [
+    "rtl/exhibit_av_gain.v",
+    "rtl/exhibit_native_osd_v38.v",
+    "rtl/exhibit_settings_menu_v37.v",
+    "source/user_source/hdl_source/top_tf_hdmi_audio.v"
+  ],
+  "tf_not_modified": true,
+  "io_clocks_fifo_geometry_and_memory_map_unchanged": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_av_gain.v": "13534A81AFA4472B3B44812731501AAC23E1A91EE4E97B3996A4FCBA54625ADB",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_native_osd_v38.v": "FB21FC55B8941622E2668726CBBD4B27A9F567ADAEFFD610C5E7DB5D08742F68",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_settings_menu_v37.v": "9FE68050D8E15C6BC22A5E7B50C9CBF7D35B8EFF6C709D2ABD8471A869C5DFAF",
+    "E:\\FPGA\\anxian_contest\\project_v57\\source\\user_source\\hdl_source\\top_tf_hdmi_audio.v": "44BD85581278447CB1E861F7ADD93A974C22CC5B0CD40257919EA20E9921285D"
+  }
+}

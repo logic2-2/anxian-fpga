@@ -1,0 +1,88 @@
+{
+  "all_passed": true,
+  "source_sha256": {
+    "E:\\FPGA\\anxian_contest\\evidence\\v57\\audio\\eq_vectors.hex": "73FAAFCB8C3F4FA4F546E9BD6F9CDB553DA508DDFB7D27047582D25CC564E26F",
+    "E:\\FPGA\\anxian_contest\\evidence\\v57\\audio\\tb_eq48.sv": "A6427AB31662761D7E31287DC6EBD4C82A9CCE198143BF321E4A5D25658D27E1",
+    "E:\\FPGA\\anxian_contest\\project_v57\\rtl\\exhibit_av_gain.v": "13534A81AFA4472B3B44812731501AAC23E1A91EE4E97B3996A4FCBA54625ADB"
+  },
+  "nominal_db": [
+    -24,
+    -18,
+    -12,
+    -6,
+    0,
+    3,
+    6
+  ],
+  "independent_reference_samples": 56512,
+  "frequency_response": [
+    {
+      "bass": 4,
+      "treble": 4,
+      "frequency_hz": 1000,
+      "gain_db": 0.0
+    },
+    {
+      "bass": 3,
+      "treble": 4,
+      "frequency_hz": 80,
+      "gain_db": -5.619593998074065
+    },
+    {
+      "bass": 0,
+      "treble": 4,
+      "frequency_hz": 80,
+      "gain_db": -22.306771760839656
+    },
+    {
+      "bass": 1,
+      "treble": 4,
+      "frequency_hz": 80,
+      "gain_db": -16.316358752906385
+    },
+    {
+      "bass": 2,
+      "treble": 4,
+      "frequency_hz": 80,
+      "gain_db": -11.52167936108954
+    },
+    {
+      "bass": 0,
+      "treble": 4,
+      "frequency_hz": 3000,
+      "gain_db": -0.7079003234604475
+    },
+    {
+      "bass": 6,
+      "treble": 4,
+      "frequency_hz": 80,
+      "gain_db": 5.620131550804242
+    },
+    {
+      "bass": 5,
+      "treble": 4,
+      "frequency_hz": 80,
+      "gain_db": 2.9316361543442637
+    },
+    {
+      "bass": 4,
+      "treble": 0,
+      "frequency_hz": 16000,
+      "gain_db": -22.694581660377953
+    },
+    {
+      "bass": 4,
+      "treble": 0,
+      "frequency_hz": 8000,
+      "gain_db": -17.685968132081918
+    },
+    {
+      "bass": 4,
+      "treble": 6,
+      "frequency_hz": 8000,
+      "gain_db": 5.827688892148322
+    }
+  ],
+  "simulation_response_only": true,
+  "hardware_verified": false
+}
